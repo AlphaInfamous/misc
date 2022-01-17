@@ -1,0 +1,21 @@
+https://nestservices.google.com/partnerconnections/12eac86d-d770-426d-8452-309e4c0e14b3/auth?redirect_uri=https://www.google.com&access_type=offline&prompt=consent&client_id=633758536354-4m3d9uk35dbpnpfporg73lbnr5k63f66.apps.googleusercontent.com&response_type=code&scope=https://www.googleapis.com/auth/sdm.service+https://www.googleapis.com/auth/pubsub
+
+
+https://www.google.com/?code=4/0AX4XfWi4rm9LaiC5ClNLFpwj1j--xSdUvBAiySiIp-Dh0hYRFWu0DqloNtVfNeRLPshVHg&scope=https://www.googleapis.com/auth/sdm.service%20https://www.googleapis.com/auth/pubsub
+
+Auth url = https://www.google.com/?code=4/0AX4XfWgQF9HDuIOApQQirxD7S3rtLPqF6sR8CT38dhuyuUa-qMRwoOqq9xEsY8ahRW4p_w&scope=https://www.googleapis.com/auth/sdm.service%20https://www.googleapis.com/auth/pubsub
+
+
+ProjectId = 12eac86d-d770-426d-8452-309e4c0e14b3
+
+ClientId = 633758536354-4m3d9uk35dbpnpfporg73lbnr5k63f66.apps.googleusercontent.com
+
+ClientSecret = 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
+
+pubsub = projects/sdm-prod/topics/enterprise-12eac86d-d770-426d-8452-309e4c0e14b3
+
+AuthorizationCode = 4/0AX4XfWgQF9HDuIOApQQirxD7S3rtLPqF6sR8CT38dhuyuUa-qMRwoOqq9xEsY8ahRW4p_w
+
+access_token = ya29.A0ARrdaM85gYRNL_5hm7Brl7AwU-fODXRV38hHg2O6tM3UjOAi14fkkoG-vMXJ9AC8SkzXRXQsUyp5KER3R_eDuz_-TVn3457hcnDqnZGqmWAm1Wp1oKsZTCLqCKzt4ssT1lMcs9nNXF8H5pjktJUhuJaDf2ip
+
+refresh_token = 1//04sFxkEwoJyDdCgYIARAAGAQSNwF-L9Iru5fBSOs2qIoXzlPRdsXCIRCXflIIwj53cbvt8LFE9Z1-iStHos7qN3jxiHxXDya9o8Q
